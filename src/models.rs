@@ -219,6 +219,7 @@ pub enum NodeType {
     TEXT,
     SLICE,
     COMPONENT,
+    COMPONENT_SET,
     INSTANCE,
 }
 
